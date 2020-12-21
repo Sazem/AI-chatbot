@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Personal project to learn basics workflows for machine learning and Python. If the chatbot will be making sense at all, would be nice to build a game around it.
+Personal project to learn basics workflows for machine learning and Python. If the chatbot will be making sense at all, would be nice to build a game around it using Unity or another game engine.
 
 
 ## Background
