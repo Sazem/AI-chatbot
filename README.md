@@ -12,6 +12,8 @@ Personal project to learn basics workflows for machine learning and Python. If t
 
 The idea of programming your own A.I that can "speak" has been intriguing me for a while. I think this would be the fastest way personally to get something you programmed yourself that would feel alive. This wouldnt solve any real world problems but would be rather for entertaiment purposes. Maybe would have some gaming challenges, or found out certain information from the A.I to pass the game. 
 
+![image of hal](/images/hal.png)
+
 ## How is it used?
 
 The final product would be update on webpage and users could interact with the bot throu webpage (ex: itch.io).
